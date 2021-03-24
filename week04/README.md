@@ -15,7 +15,7 @@ int main()
     printf("%f %f %f\n", point1.x, point1.y, point1.z);
 
 }
-`
+```
 ```c
 #include<stdio.h>
 struct DATA { ///宣告
@@ -35,7 +35,7 @@ int main()
         printf("%f %f %f\n", points[i].x, points[i].y, points[i].z);
     }
 }
-`
+```
 ```c
 #include<stdio.h>
 struct DATA {
@@ -55,7 +55,7 @@ int main()
         }
 
 }
-`
+```
 ```c
 #include<stdio.h>
 struct DATA {
@@ -75,4 +75,4 @@ int main()
     printf("%f %f %f\n", e.x, e.y, e.z);
     printf("%f %f %f\n", f.x, f.y, f.z);
 }
-`
+```
